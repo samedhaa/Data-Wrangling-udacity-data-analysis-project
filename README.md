@@ -1,4 +1,6 @@
 # Data Wrangling
+
+## THE MAIN PROCCESS (main file) IS IN THE 'wrangle_act.ipynb' FILE.
 ##### This project is about data wrangling were i had to use the three stages of data wrangling (gather, asses, clean).
 ##### with gathering i had to gather one dataset from udacity(udacity provided to download manually) and the other using Request library in python because the data were in a url also provided by UDACITY and then i had to use Twitter API to gather the last dataset.
 
